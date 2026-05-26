@@ -193,3 +193,12 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ```
 
 ![VS Code When Running](./docs/images/vscode_when_running.png)
+## My Technical Modification
+
+I copied the instructor example file `app_case.py` to `app_jameswebb.py`.
+
+I modified the PET_LIST by adding "piglet" and changed the generated output filenames from `case_*` to `jameswebb_*`.
+
+This modification changed the program output by generating personalized output files and creating an additional pet output file.
+
+The project ran successfully after the modification.
